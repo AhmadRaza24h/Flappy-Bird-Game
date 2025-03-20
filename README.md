@@ -32,7 +32,7 @@ A simple **Flappy Bird** game built using **Java Swing**. This project demonstra
 - **IntelliJ IDEA / Eclipse / Any Java IDE**
 
 ## 📷 Preview
-[https://imgur.com/a/jYrmeXZ](https://i.imgur.com/aReUjKa.png)
+![My Image](https://i.imgur.com/aReUjKa.png)
 
 
 ## 🚀 Future Improvements
